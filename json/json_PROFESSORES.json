@@ -1,0 +1,21 @@
+[{"name": "Isabelle Huppert",
+  "email": "isabelle@email.com",
+  "id": "01",
+  "listadisciplinas": "01,04"
+},{"name": "Ruth Negga",
+   "email": "ruth@email.com",
+  "id": "02",
+  "listadisciplinas": "03,04"
+},{"name": "Natalie Portman",
+   "email": "natalie@email.com",
+  "id": "03",
+  "listadisciplinas":"01,02"
+},{"name": "Emma Stone",
+   "email": "emma@email.com",
+  "id": "04",
+  "listadisciplinas": "01,05"
+},{"name": "Meryl Streep",
+   "email": "meryl@email.com",
+  "id": "05",
+  "listadisciplinas": "03,05"
+}]

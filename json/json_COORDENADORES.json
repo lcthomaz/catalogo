@@ -1,0 +1,21 @@
+[{"name": "Casey Affleck",
+  "email": "casey@email.com",
+  "id": "01",
+  "listadisciplinas": "01,04"
+},{"name": "Denzel Washington",
+   "email": "denzel@email.com",
+  "id": "02",
+  "listadisciplinas": "03,04"
+},{"name": "Andrew Garfield",
+   "email": "andrew@email.com",
+  "id": "03",
+  "listadisciplinas":"01,02"
+},{"name": "Viggo Mortensen",
+   "email": "viggo@email.com",
+  "id": "04",
+  "listadisciplinas": "01,05"
+},{"name": "Ryan Gosling",
+   "email": "ryan@email.com",
+  "id": "05",
+  "listadisciplinas": "03,05"
+}]

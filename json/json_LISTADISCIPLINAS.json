@@ -1,25 +1,37 @@
 [{"title": "Disciplina Lorem Ipsum 01",
   "id": "01",
-  "numUA":{"default": "0", "config": "0"},
-  "status":"new"
+  "curso":{"id": "01", "title": "Biologia"},
+  "numUA":{"default": "12", "config": "0"},
+  "status":"new",
+  "mensagem":"Pronto! Agora você deve selecionar no catálogo as UAs que deseja utilizar nesta Disciplina"
 },{"title": "Disciplina Lorem Ipsum 02",
   "id": "02",
-  "numUA":{"default": "8", "config": "8"},
-  "status":"sent"
+  "curso":{"id": "02", "title": "Direito"},
+  "numUA":{"default": "0", "config": "0"},
+  "status":"new",
+  "mensagem":""
 },{"title": "Disciplina Lorem Ipsum 03",
   "id": "03",
-  "numUA":{"default": "8", "config": "3"},
-  "status":"new"
+  "curso":{"id": "02", "title": "Direito"},
+  "numUA":{"default": "8", "config": "8"},
+  "status":"new",
+  "mensagem":""
 },{"title": "Disciplina Lorem Ipsum 04",
   "id": "04",
+  "curso":{"id": "03", "title": "Curso 05"},
   "numUA":{"default": "12", "config": "12"},
-  "status":"disapproved"
+  "status":"disapproved",
+  "mensagem":""
 },{"title": "Disciplina Lorem Ipsum 05",
   "id": "05",
+  "curso":{"id": "03", "title": "Curso 05"},
   "numUA":{"default": "16", "config": "16"},
-  "status":"sent"
+  "status":"sent",
+  "mensagem":""
 },{"title": "Disciplina Lorem Ipsum 05",
   "id": "06",
+  "curso":{"id": "04", "title": "Comunicação Social"},
   "numUA":{"default": "16", "config": "16"},
-  "status":"approved"
+  "status":"approved",
+  "mensagem":""
 }]
